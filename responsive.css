@@ -3,7 +3,7 @@
 	body
 	{
 		margin: 0 auto;
-		max-width: 1200px;
+		max-width: 100%;
 	}
 	#bienvenida
 	{
@@ -37,5 +37,12 @@
 	#contenido
 	{
 		width: 70%;
+	}
+	.navbar-collapse
+	{
+	padding-bottom: 10px;
+    clear: both;
+    display: block;
+    width: 100%;
 	}
 }
